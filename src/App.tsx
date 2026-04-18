@@ -198,10 +198,10 @@ export default function App() {
               Estética Automotiva de Elite
             </span>
           </div>
-          <h1 className="text-6xl md:text-9xl font-display font-black leading-[0.85] tracking-tighter uppercase mb-8">
-            GODOI<br />
-            <span className="text-brand">ESTÉTICA</span><br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-zinc-200 to-zinc-600 pr-4">AUTOMOTIVA</span>
+          <h1 className="text-5xl md:text-9xl font-display font-black leading-[1.1] md:leading-[0.85] tracking-tighter uppercase mb-8 overflow-visible">
+            <span className="inline-block pr-4">GODOI</span><br />
+            <span className="text-brand inline-block pr-6">ESTÉTICA</span><br />
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-zinc-200 to-zinc-600 pr-8 pb-2 inline-block">AUTOMOTIVA</span>
           </h1>
           <p className="text-zinc-400 text-lg md:text-xl max-w-2xl mx-auto mb-10 font-medium leading-relaxed">
             Seu veículo como novo. Do detalhe à proteção extrema, garantimos o melhor resultado em Bela Vista de Goiás.
